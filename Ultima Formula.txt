@@ -1,0 +1,22 @@
+price ~ accommodates + room_type + neighbourhood_group_cleansed + 
+    bedrooms + cleaning_fee + month + bathrooms + days_last_review + 
+    host_is_superhost + review_scores_location + reviews_per_month + 
+    property_type + `Elevator in Building` + week_day + calculated_host_listings_count + 
+    latitude + bed_type + guests_included + longitude + `Cable TV` + 
+    review_scores_value + review_scores_rating + host_has_profile_pic + 
+    Doorman + `Laptop Friendly Workspace` + Shampoo + `Suitable for Events` + 
+    `Smoking Allowed` + review_scores_accuracy + host_total_listings_count + 
+    `24-Hour Check-in` + `Pets live on this property` + `Indoor Fireplace` + 
+    `Air Conditioning` + host_identity_verified + `Fire Extinguisher` + 
+    security_deposit + `Wireless Internet` + Internet + maximum_nights + 
+    Iron + Hangers + is_location_exact + `Hot Tub` + host_response_time + 
+    `Wheelchair Accessible` + Kitchen + require_guest_profile_picture + 
+    `Safety Card` + beds + `Lock on Bedroom Door` + `Hair Dryer` + 
+    `Washer / Dryer` + Heating + cancellation_policy + `Smoke Detector` + 
+    Breakfast + days_first_review + number_of_reviews + minimum_nights + 
+    days_as_host + instant_bookable + TV + host_response_rate + 
+    `Family/Kid Friendly` + `Carbon Monoxide Detector` + review_scores_checkin + 
+    `Buzzer/Wireless Intercom` + extra_people + Essentials + 
+    review_scores_cleanliness + Pool + year + review_scores_communication + 
+    `First Aid Kit` + `Free Parking on Premises` + require_guest_phone_verification + 
+    `Pets Allowed`
